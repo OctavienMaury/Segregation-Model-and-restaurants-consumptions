@@ -159,16 +159,16 @@ def play(society, episodes, iterations):
 if __name__ == '__main__':
 
 
-    name = "testestes5"  # Nom par défaut de la simulation
-    iterations =5000  # Nombre d'itérations par défaut pour la simulation
-    episodes = 2  # Nombre d'épisodes de la simulation
-    agent_max_age = 80  # Âge maximal par défaut des agents
-    agent_range = 5  # Portée de vision par défaut des agents
-    num_actions = 4  # Nombre d'actions possibles (haut, bas, gauche, droite, et rester immobile)
-    num_restaurants = 5  # Nombre de restaurants à générer
-    alpha = 0.5 # Niveau de tolérance pour l'interaction avec les restaurants de type différent
-    beta = 1  # Coefficient pour la récompense de vigilance
-    gamma = 1  # Coefficient pour la récompense d'interdépendance
+    name = "testestes5"  
+    iterations =5000  
+    episodes = 2  
+    agent_max_age = 80  
+    agent_range = 5 
+    num_actions = 4 
+    num_restaurants = 5  
+    alpha = 0.5 
+    beta = 1 
+    gamma = 1  
 
 
 
