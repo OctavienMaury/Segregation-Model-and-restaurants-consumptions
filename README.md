@@ -16,7 +16,7 @@ The approach taken by this code is to integrate the idea of revealing the ethnic
 
 ## Usage
 
-This simulation unfolds in two distinct episodes. In the initial phase, agents operate under the veil of ignorance regarding the ethnicity of restaurant owners, symbolized by a triangle on the result maps. Subsequently, in the second episode, agents are enlightened about the ethnic makeup. The distribution of restaurant ethnicities is predetermined, deliberately ensuring that Type B establishments constitute a minority. The simulation can iterate for any desired number of cycles.
+This simulation unfolds in two distinct episodes. In the initial phase, agents operate under the veil of ignorance regarding the ethnicity of restaurant owners. Subsequently, in the second episode, agents are enlightened about the ethnic makeup. The distribution of restaurant ethnicities is predetermined, deliberately ensuring that Type B establishments constitute a minority. The simulation can iterate for any desired number of cycles.
 
 Furthermore, the distribution of agents is exogenously arranged, guaranteeing a minority presence of Type B agents. Restaurant consumption is assessed using a point-based system; each visit by individuals from different ethnicities incrementally enhances the restaurant's score by 0.1 points.
 
